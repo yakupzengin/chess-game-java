@@ -23,26 +23,5 @@ The chessboard is represented in the command-line interface as a grid of squares
 ♙ P for White Pawn ♜ R for White Rook ♞ N for White Knight ♝ B for White Bishop ♛ Q for White Queen ♚ K for White King For Black pieces, the symbols are represented in lowercase.
 
 ## Example Execution
+![chess-sss](https://github.com/yakupzengin/chess-game-java/assets/118113891/4e7a4429-953e-45f6-bd47-b44d70b576b3)
 
-   A    B    C    D    E    F    G    H
-  ______________________________________
-8| ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
-  ______________________________________
-7| ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
-  ______________________________________
-6|    |    |    |    |    |    |    |   |
-  ______________________________________
-5|    |    |    |    | ♙ |    |    |   |
-  ______________________________________
-4|    |    |    |    | ♟ |    |    |   |
-  ______________________________________
-3|    |    |    |    |    |    |    |   |
-  ______________________________________
-2| ♙ | ♙ | ♙ | ♙ |    | ♙ | ♙ | ♙ |
-  ______________________________________
-1| ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
-  ______________________________________
-   A    B    C    D    E    F    G    H
-
-It is White's turn
-Enter the location of the piece:
