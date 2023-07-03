@@ -8,7 +8,7 @@ public class Square {
     private ChessBoard board;
 
     /*
-    *   Constructs a Square object with the specified row, column, and associated ChessBoard
+    *   Constructs a Square  object with the specified row, column, and associated ChessBoard
     *   Takes 3 parameters: ChessBoard object, row index and column index
      */
     public Square(ChessBoard board, int row, int column) {

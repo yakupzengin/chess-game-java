@@ -2,7 +2,7 @@ public class Knight extends Piece {
     /**
      * Constructs a new Knight with the specified color and location.
      *
-     * Parameter :  color : the color of the piece
+     * Parameter :  color : the color  of the piece
      * Parameter :  location : the initial location of the piece on the chessboard
      */
     public Knight(int color, Square location) {

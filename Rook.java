@@ -9,7 +9,7 @@ public class Rook extends Piece {
         super(color, location);
     }
 
-    // Checks if the rook can move to the destination "to"
+    // Checks if the rook  can move to the destination "to"
     @Override
     public boolean canMove(String to) {
         boolean validMove = false;

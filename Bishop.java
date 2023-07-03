@@ -1,6 +1,6 @@
 public class Bishop extends Piece {
     /**
-     * Constructs a  new Bishop with the specified color and location.
+     * Constructs a  new Bishop with the  specified color and location.
      *
      * Parameter :  color : the color of the piece
      * Parameter :  location : the initial location of the piece on the chessboard

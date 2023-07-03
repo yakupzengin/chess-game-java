@@ -5,7 +5,7 @@ public class Pawn extends Piece {
     /**
      * Constructs a new Pawn with the specified color and location.
      *
-     * Parameter :  color : the color of the piece
+     * Parameter :  color : the color  of the piece
      * Parameter :  location : the initial location of the piece on the chessboard
      */
     public Pawn(int color, Square location) {

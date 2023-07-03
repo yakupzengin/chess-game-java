@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ChessBoard  {
-    public static final int WHITE = 0;
+    public static final int  WHITE = 0;
     public static final int BLACK = 1;
     private Square[][] board;
     private boolean whitePlaying = true;

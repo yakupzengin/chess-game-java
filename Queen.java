@@ -9,7 +9,7 @@ public class Queen extends Piece {
         super(color, location);
     }
 
-    // Checks if the queen can move to the destination "to"
+    // Checks  if the queen can move to the destination "to"
     @Override
     public boolean canMove(String to) {
         boolean validMove = false;

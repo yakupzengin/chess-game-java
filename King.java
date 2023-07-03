@@ -3,7 +3,7 @@ public class King extends Piece {
      * Constructs a new King with the specified color and location.
      *
      * Parameter :  color: the color of the piece
-     * Parameter :  location : the initial location of the piece on the chessboard
+     * Parameter :  location : the initial  location of the piece on the chessboard
      */
     public King(int color, Square location) {
         super(color, location);

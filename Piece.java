@@ -6,7 +6,7 @@ public abstract class Piece {
      * Constructs a new Piece object with the specified color and location.
      *
      * Parameter :  color : the color of the piece
-     * Parameter :  location : the initial location of the piece on the chessboard
+     * Parameter :   location : the initial location of the piece on the chessboard
      */
     public Piece(int color, Square location) {
         this.color = color;
